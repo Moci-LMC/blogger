@@ -121,6 +121,9 @@
 .top-nav .LinkList ul a[href*="pinterest.jp"]::before {
   content: "";
 }
+.top-nav .LinkList ul li a[href*="youtube.com"]::before {
+  content: "";
+}
 .top-nav .LinkList ul a[href*="clibo.tw"]::before {
   display: inline-block;
   content: "";
